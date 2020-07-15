@@ -1,0 +1,51 @@
+.navbar{
+    background-color: #7af035;
+}
+.nav-link{
+    font: 30px Arial, sans-serif;
+    color: red;
+}
+
+body{
+    font:20px Arial, sans-serif;
+}
+.quem-somos{
+    background-color: #8181F7;
+    color: white;
+}
+
+.margin{   
+    padding-bottom:20px ;    
+    padding-top: 10px;
+    
+}
+
+.tecnologias{
+    background-color: #58FAF4;
+}
+
+.bg-footer{
+    background-color: #848484;
+    color: white;
+}
+.logo{
+    width:  50px;
+    margin-left: 10px;
+    
+}
+.hailton{
+    margin-right: 50px;
+   margin-left: 30px;
+}
+p{
+    text-align: center;
+}
+.servicos{
+    background-color: #F3F781;
+}
+
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
